@@ -35,7 +35,7 @@ This project implements a simplified Dropbox-like service that allows users to u
 
 - Clone the Repository:
 
-  git clone <repository-url>
+  git clone <https://github.com/UP11SRE/typeface_assignment.git>
 
   cd typeface_assignment
 
